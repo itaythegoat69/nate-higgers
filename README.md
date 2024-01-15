@@ -6,9 +6,7 @@
 
 ---
 
-The main idea of this project is to show how can React Native interact with Google Maps API and Geolocation API.
-
-Type a location on the search box and the app will determine and trace the route on the google map.
+API של GEOLOCATION שעובד עם REACT
 
 ## Dependencies
 
